@@ -6,7 +6,7 @@ Bienvenido al proyecto **Videojuego de Salud Mental**, desarrollado en Unity. Es
 
 **Videojuego de Salud Mental** es un juego diseñado para ayudar a los jugadores a aprender sobre técnicas de manejo del estrés y mejorar su bienestar emocional. A través de diversos niveles y mecánicas de juego, los jugadores podrán explorar conceptos relacionados con la salud mental y participar en actividades que fomenten el autocuidado y la reflexión.
 
-[![Captura del Juego](ruta/a/tu/imagen.png)](https://img.itch.zone/aW1hZ2UyL2phbS8zODc3MDgvMTU4MjgxNDAucG5n/original/QXZrs9.png)
+ruta/a/tu/imagen.png)](https://img.itch.zone/aW1hZ2UyL2phbS8zODc3MDgvMTU4MjgxNDAucG5n/original/QXZrs9.png
 
 ## Requisitos del Unity para trabaja en equipo
 - version de Unity 2022.3.17f1
