@@ -3,9 +3,9 @@ public class CharacterMove : MonoBehaviour
 {
     // codigo de referencia https://www.youtube.com/watch?v=whzomFgjT50&t=306s
     public float moveSpeed = 5f;
-    public Rigidbody2D rb;
+    public Rigidbody rb;
     public Animator animator;
-    Vector2 movement;
+    Vector3 movement;
     public Joystick joystick;
     [Header("Menu Debug")]
     public bool esPc;
