@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a513c4c6bd492634c83f3057967e1a76, type: 3}
   m_Name: QuestMata3Leones
   m_EditorClassIdentifier: 
-  _nombre: Cazador de soldados 2
+  _nombre: Ayudar a Otros Personajes
   _ID: 3
-  _cantidadObjetivo: 3
-  _descipcion: Mata 50 enemigos
-  _recompensaOro: 15
-  _recompensaExp: 5
+  _cantidadObjetivo: 1
+  _descipcion: 'ayuda a personas que necesiten ayuda, como liberar a alguien atrapado
+    o dar comida a alguien hambriento. '
+  _recompensaOro: 10
+  _recompensaExp: 10
   _recompensaItem:
     _item: {fileID: 11400000, guid: 4418f478e23f64c42adeee4a27d31cca, type: 2}
     _cantidad: 5

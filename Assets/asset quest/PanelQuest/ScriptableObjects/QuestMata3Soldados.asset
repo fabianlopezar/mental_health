@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a513c4c6bd492634c83f3057967e1a76, type: 3}
   m_Name: QuestMata3Soldados
   m_EditorClassIdentifier: 
-  _nombre: Cazador Principiante
+  _nombre: Proteger a los Inocentes
   _ID: 1
   _cantidadObjetivo: 3
-  _descipcion: Mata 3 Soldados
-  _recompensaOro: 15
-  _recompensaExp: 5
+  _descipcion: proteger a un grupo vulnerable de un peligro inminente
+  _recompensaOro: 10
+  _recompensaExp: 10
   _recompensaItem:
     _item: {fileID: 11400000, guid: 4418f478e23f64c42adeee4a27d31cca, type: 2}
     _cantidad: 1
